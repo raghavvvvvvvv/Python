@@ -1,0 +1,5 @@
+student=input(' Enter student id ')
+studentname=(' enter student name ')
+marks_os, marks_en=input('Eneter marks in os and en) ').split()
+total=int(marks_os)+(marks_en)
+print (total)
